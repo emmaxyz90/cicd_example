@@ -33,7 +33,3 @@ workflows:
   myWorkflow:
     jobs:
       - create_infrastructure
-<<<<<<< HEAD
-  
-=======
->>>>>>> d5823cc3ab62f4254526896ac3cd8edf34255511
